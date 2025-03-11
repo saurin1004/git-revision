@@ -1,4 +1,3 @@
-This is my first git practice project in 2025
+# Git commands revision
 
-author - saurin prajapati
-company - sap
+Author - Saurin Prajapati
